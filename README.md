@@ -1,2 +1,2 @@
-# CODSOFT
+#javaScript
 CodeSoft Internship Program
